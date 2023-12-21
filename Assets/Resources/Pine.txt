@@ -1,0 +1,5 @@
+﻿#Header:Ice
+#Color:0,133,180,1
+#Description:
+IceGray 의 자식 행성\n
+이 행성도 추운건 마찬가지이다

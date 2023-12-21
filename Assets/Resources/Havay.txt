@@ -1,0 +1,4 @@
+﻿#Header:Havay
+#Color:0,196,189,1
+#Description:
+물이 전혀 부족하지 않은 행성

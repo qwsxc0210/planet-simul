@@ -1,0 +1,5 @@
+#Header:Egipt Planet
+#Color:123,123,123,1
+#Description:
+태양과 가까이 있어 푸른 숲과 강물이 흐른다\n
+블라블라.
